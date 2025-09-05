@@ -1,2 +1,4 @@
 # Calucator
-Calucator with python ماشین حساب پایتون
+install Library !
+
+pip install tkinter
